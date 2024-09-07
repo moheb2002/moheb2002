@@ -19,7 +19,7 @@ I'm a passionate mobile developer specializing in building Flutter applications.
 - **[Nike sneakers store app ](https://github.com/moheb2002/Nike)**: This is my first app and it is a Nike sneakers store app. It is without logic and clean architecture, only the presentation layer.
 
 ### 📫 How to reach me:
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/moheb-adel-a31167126?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or reach out via [email ](mailto:mohebadel13@.com )!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/moheb-adel-a31167126?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or reach out via [email ](mailto:moheb21-02161@student.eelu.edu.eg )!
 
 ---
 ⭐️ From [Moheb Adel](https://github.com/moheb2002)
