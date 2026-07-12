@@ -65,7 +65,7 @@ Azure AI Development
 
 🤝 Let's Connect
 
-💼 LinkedIn: www.linkedin.com/in/mohebadel
+💼 LinkedIn: www.linkedin.com/in/moheb2002
 
 📧 Open to conversations around:
 
