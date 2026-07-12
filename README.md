@@ -1,26 +1,82 @@
-# Hi there, I'm Moheb Adel! 👋
+👋 Hi, I'm Moheb Adel
+🚀 Emerging AI Consultant | Microsoft Business Program Manager Intern | Azure AI & Copilot Enthusiast
 
-## 🚀 Flutter Developer | Mobile Applications Specialist
+I'm passionate about transforming business challenges into intelligent solutions using Generative AI, Agentic AI, Microsoft Copilot, and Azure AI Services.
 
-I'm a passionate Flutter developer focused on building beautiful, high-performance mobile applications. My goal is to create efficient, user-friendly apps that solve real-world problems. Always eager to learn new technologies and improve my craft within the mobile development ecosystem.
+Currently, I work as a Business Program Manager Intern at Microsoft, where I contribute to AI transformation initiatives, business operations, customer success, and enterprise technology programs. I combine a strong technical foundation with business and consulting skills to bridge the gap between technology and business value.
 
-### 💼 Skills & Technologies:
-- **Languages**: Dart, Java
-- **Frameworks & Tools**: Flutter, Android SDK, Firebase, RESTful APIs
-- **Version Control**: Git & GitHub
-- **Platforms**: Android, iOS
+🌟 About Me
+🤖 Passionate about Generative AI & Agentic AI
+☁️ Azure AI & Microsoft Copilot enthusiast
+📊 Interested in AI Transformation and Business Innovation
+💡 Exploring AI-powered applications and intelligent assistants
+🎯 Building expertise in AI Consulting, Solution Architecture, and Enterprise AI Adoption
+🌍 Based in Cairo, Egypt
+🛠️ Tech Stack
+AI & Cloud
 
-### 🔗 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moheb-adel-a31167126)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moheb2002)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moheb.adel.soliman)
+Programming
 
-### ✨ Notable Projects:
-- **[Nike Sneakers Store App](https://github.com/moheb2002/Nike)**: A frontend-only app showcasing Nike sneakers. It focuses on UI presentation without business logic or clean architecture. This was my first app, laying the foundation for future projects.
+Productivity & Data
 
-### 📫 Get in Touch:
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/moheb-adel-a31167126).
-- Email me at [Email](mailto:moheb21-02161@student.eelu.edu.eg).
+🏆 Microsoft Certifications
+Expert & Associate Certifications
 
----
-⭐️ From [Moheb Adel](https://github.com/moheb2002)
+✅ AB-100 – Agentic AI Business Solutions Architect
+ ✅ AI-103 – Azure AI & Agentic Developer
+ ✅ AI-102 – Azure AI Engineer Associate
+ ✅ AB-731 – AI Transformation Consultant
+ ✅ AB-730 – Microsoft Copilot & AI Business Consultant
+ ✅ AI-900 – Azure AI Fundamentals
+ ✅ AZ-900 – Azure Fundamentals
+ ✅ AB-900 – Microsoft AI Fundamentals
+
+🚀 Featured Projects
+🎙 Azure AI Speech Assistant
+
+A FastAPI-powered application that converts text into speech using Azure AI Speech Services.
+
+Tech: FastAPI • Azure Speech SDK • HTML/CSS/JavaScript
+
+🤖 AI & Copilot Solutions
+
+Building solutions leveraging:
+
+Generative AI
+Agentic AI
+Azure AI Services
+Microsoft Copilot
+Intelligent Automation
+📈 Current Focus
+AI Transformation
+███████████████████████ 100%
+
+Generative AI
+███████████████████████ 100%
+
+Agentic AI
+█████████████████████░░ 90%
+
+Microsoft Copilot
+███████████████████████ 100%
+
+Azure AI Development
+█████████████████████░░ 90%
+
+🤝 Let's Connect
+
+💼 LinkedIn: www.linkedin.com/in/mohebadel
+
+📧 Open to conversations around:
+
+AI Consulting
+Azure AI
+Microsoft Copilot
+Agentic AI
+Enterprise AI Transformation
+AI Solution Architecture
+💡 Personal Motto
+
+"AI is not replacing humans; it's empowering those who know how to use it."
+
+⭐ Always learning. Always building. Always innovating. 🚀
