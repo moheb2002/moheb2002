@@ -32,10 +32,9 @@ Expert & Associate Certifications
  ✅ AB-900 – Microsoft AI Fundamentals
 
 🚀 Featured Projects
-🎙 Azure AI Speech Assistant
+🎙 Azure AI Avarar Maker
 
-A FastAPI-powered application that converts text into speech using Azure AI Speech Services.
-
+AI Avatar Maker is an AI-powered application that converts written text into engaging avatar-led video presentations.
 Tech: FastAPI • Azure Speech SDK • HTML/CSS/JavaScript
 
 🤖 AI & Copilot Solutions
